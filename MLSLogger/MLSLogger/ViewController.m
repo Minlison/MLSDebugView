@@ -17,9 +17,6 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
-        UIFont *font = [UIFont systemFontOfSize:15];
-        NSLog(@"%f",font.pointSize);
 }
 - (IBAction)testBtn:(id)sender
 {
